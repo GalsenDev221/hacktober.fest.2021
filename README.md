@@ -1,6 +1,6 @@
-# Hacktoberfest 2021
+# HacktoberFest 2021
 
-Ressources for Hacktoberfest Hackaton 2021 organized by GalsenDEV & LinuxSenegal.
+Ressources for HacktoberFest Hackaton 2021 organized by GalsenDEV & LinuxSenegal.
 
 ## Some cool project to contribute for beginners
 
@@ -13,10 +13,12 @@ Ressources for Hacktoberfest Hackaton 2021 organized by GalsenDEV & LinuxSenegal
 - https://github.com/GalsenDev221/made-in-senegal
 - https://github.com/GalsenDev221/galsendev-first-contributions
 
-- https://github.com/microsoft/ML-For-Beginners (traduction en français)
+- https://github.com/microsoft/ML-For-Beginners
 - https://github.com/firstcontributions/first-contributions
 - https://github.com/mungell/awesome-for-beginners
 
 ### Discord
 
-- https://discord.gg/YP2zAD8C
+- [Galsen DEV's Discord](https://discord.gg/CKZcKqf)
+
+Do not hesitate to join our Discord community !
