@@ -22,3 +22,5 @@ Ressources for HacktoberFest Hackaton 2021 organized by GalsenDEV & LinuxSenegal
 - [Galsen DEV's Discord](https://discord.gg/CKZcKqf)
 
 Do not hesitate to join our Discord community !
+
+![image](https://user-images.githubusercontent.com/40875400/147552922-999a5a5f-3a8c-4b0a-b5bf-9fba67777d18.png)
