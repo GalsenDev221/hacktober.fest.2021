@@ -2,6 +2,8 @@
 
 Ressources for HacktoberFest Hackaton 2021 organized by GalsenDEV & LinuxSenegal.
 
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+
 ## Some cool project to contribute for beginners
 
 - https://github.com/senegalouvert/annuaire-sites-publics-senegal
